@@ -17,6 +17,8 @@ import pandas as pd
 from openpyxl import load_workbook
 import pyautogui
 
+#minor chanage for github
+
 PATH = "Documents\drivers\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
 Sigma_Home = "https://www.sigmaaldrich.com/catalog/product/aldrich/442534?lang=en&region=US&utm_medium=cpc&utm_source=bing&utm_term=aigma&utm_campaign=Aldrich%20Position%20Support%20Global%20(Bing%20ebizpfs)&utm_content=aldrich/442534"
